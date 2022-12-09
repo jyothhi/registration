@@ -1,0 +1,47 @@
+#r2{
+    margin:100px;
+    padding: 20px;
+    
+}#r1{
+    background-color: skyblue;
+    border:1px solid black ;
+    height:50px;
+    width:300px;
+    margin-left: 100px;
+    
+}
+#r3{
+    
+    margin-left: 10px;
+}
+#r4{
+    margin-top: 40px;
+}
+#r5{
+    margin-top: 20px;
+}
+#r6{
+    margin-top: 20px;
+}
+#r8{
+   margin-top: 20px;
+}
+#r9{
+    margin-top: 20px;
+    
+}
+#r10{
+    width:70px;
+}
+.container{
+    max-width: 700px;
+    width:100%;
+    padding: 25px 30px;
+    border-radius: 5px;
+
+}
+#jyo{
+    width:70px
+}
+
+
